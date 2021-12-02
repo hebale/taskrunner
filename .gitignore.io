@@ -1,5 +1,5 @@
 #
 .vscode
 .idea
-./node_modules
-./public/dist
+/node_modules
+g/public/dist
